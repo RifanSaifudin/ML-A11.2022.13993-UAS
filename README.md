@@ -18,7 +18,7 @@ Tujuan yang Akan Dicapai:
 Membangun model yang dapat memprediksi harga saham bank Mandiri dengan akurasi yang tinggi menggunakan model regresi linier.
 
 Model / Alur Penyelesaian:
-![Model](Image/diagram model.drawio.png)
+![Model](Image/diagram_model.drawio.png)
 
 Diskusi Hasil:
 Nilai Mean Squared Error (MSE) dari model adalah 'mse' dan nilai R-squared adalah 'r2'. Ini mengindikasikan seberapa baik model memprediksi harga penutupan saham berdasarkan fitur-fitur yang digunakan.
