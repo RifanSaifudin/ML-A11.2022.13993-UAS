@@ -17,7 +17,9 @@ Meskipun telah ada berbagai pendekatan untuk memprediksi harga saham, masih ada 
 Tujuan yang Akan Dicapai:
 Membangun model yang dapat memprediksi harga saham bank Mandiri dengan akurasi yang tinggi menggunakan model regresi linier.
 
+
 Model / Alur Penyelesaian:
+
 ![Model](Image/diagram_model.drawio.png)
 
 Diskusi Hasil:
