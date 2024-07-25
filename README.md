@@ -19,7 +19,9 @@ Membangun model yang dapat memprediksi harga saham bank Mandiri dengan akurasi y
 
 Model / Alur Penyelesaian:
 
+
 Diskusi Hasil:
+Nilai Mean Squared Error (MSE) dari model adalah 'mse' dan nilai R-squared adalah 'r2'. Ini mengindikasikan seberapa baik model memprediksi harga penutupan saham berdasarkan fitur-fitur yang digunakan.
 
 Kesimpulan:
 Model regresi linier dapat memperkirakan harga penutupan saham dengan baik. Namun, kinerja model bisa ditingkatkan dengan menambah jumlah data atau mencoba algoritma machine learning lainnya.
